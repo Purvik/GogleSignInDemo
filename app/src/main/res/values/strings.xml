@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GogleSignIn</string>
+    <string name="client_id">117226286074-vtao7lqtk0o1te2oung9tnoj9euh9u3q.apps.googleusercontent.com</string>
+
+    <string name="web_app_client_id">117226286074-8hdr6u1v7lpvp46jmvuudj4slb47j77i.apps.googleusercontent.com</string>
+    <string name="btnSignOut">Sign Out</string>
+</resources>
